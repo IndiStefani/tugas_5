@@ -1,0 +1,57 @@
+body {
+   font-family: 'Poppins';
+}
+
+.container {
+   width: 1050px;
+   height: auto;
+}
+
+.logo {
+   width: 110px;
+}
+
+.text_nav {
+   font-size: 10px;
+}
+
+.btn_nav {
+   border-radius: 20px;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+
+.kiri {
+   width: 200px;
+}
+
+.card-body h1 {
+   font-size: 44px;
+   font-weight: bold;
+}
+
+.lingkaran {
+   width: 30px;
+   height: 30px;
+   border-radius: 100%;
+}
+
+.dashed {
+   border-left: 3px dashed;
+   height: 30px;
+   width: 0px;
+   display: inline-block;
+   margin: 5px 0px 3px 13px;
+}
+
+.list {
+   list-style-type: none;
+}
+
+.d-flex a {
+   width: 170px;
+   height: 40px;
+   margin: 15px;
+   text-align: center;
+   border-radius: 0;
+}
